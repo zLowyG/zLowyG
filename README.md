@@ -14,7 +14,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 </div>
 
 <br>
-**    Tengo que añadir que estoy constantemente aprendiendo otras cosas nuevas. Aquí se agregaran con el tiempo etiquetas nuevas.**
+**Tengo que añadir que estoy constantemente aprendiendo otras cosas nuevas. Aquí se agregaran con el tiempo etiquetas nuevas.**
 
 #php Link [Link](https://discord.gg/test)
 
