@@ -22,7 +22,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 - asd
 
 <div class="container" alsign="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zLowy&show_icons=true&theme=tokyonight" alt="Stats"> 
+<img height="500" width="350 src="https://github-readme-stats.vercel.app/api?username=zLowy&show_icons=true&theme=tokyonight" alt="Stats"> 
 <a><img height="350" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLowy&langs_count=8&theme=tokyonight" alt="Stats 2"</a>>
 </div>
   
