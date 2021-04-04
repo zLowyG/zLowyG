@@ -10,7 +10,7 @@
 Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me especializo en programación tanto con blueprints como en codigo c++ en el engine **Unreal Engine**.
 
 ## Conozco:
-<code><a><img height="70" width="250" src="https://github.com/zLowy/zLowy/blob/main/Panels/BluePrints.png?raw=true"></a></code>
+<code><a><img height="65" width="225" src="https://github.com/zLowy/zLowy/blob/main/Panels/BluePrints.png?raw=true"></a></code>
 
 #php Link [Link](https://discord.gg/test)
 
