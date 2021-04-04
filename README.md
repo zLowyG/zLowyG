@@ -23,7 +23,17 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 
 <div class="container" alsign="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zLowy&show_icons=true&theme=tokyonight" alt="Stats"> 
-<a margin-left=20><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLowy&langs_count=8&theme=tokyonight" alt="Stats 2"</a>>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLowy&langs_count=8&theme=tokyonight" alt="Stats 2"</a>>
 </div>
+  
+  Párrafo de texto regular markdown
+
+<table>
+        <tr>
+            <td>texto de celda</td>
+        </tr>
+</table>
+
+Otro párrafo de texto regular markdown
   
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/paypalme/zlowygames)
