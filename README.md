@@ -14,7 +14,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 </div>
 
 <br>
-<h5>Tengo que agregar que tambien se node.js, python, discord. No lo pongo ya que ahora me estoy centrando en Desarrollo de Videojuegos en Unreal Engine 4 y se usa C++ y Blue prints.</h5>
+<h5>Tengo que agregar que tambien se node.js, python, discord. No lo pongo ya que ahora me estoy centrando en Desarrollo de Videojuegos en Unreal Engine 4 y se usa C++ y Blueprints.</h5>
 
 #php Link [Link](https://discord.gg/test)
 
