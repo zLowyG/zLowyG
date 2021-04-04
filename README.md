@@ -20,12 +20,11 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 
 
 
-**Tabla de contenido**
+**¿Por donde podria contactarte?**
 
-- asd
-- asd
-- asd
-- asd
+- Mi Discord: [zLøwy#0633](https://discord.gg/tdB6qZpf83)
+- Mi servidor de Discord: https://discord.gg/tdB6qZpf83
+- Mi Email de Trabajo: workzlowy@gmail.com
 
   <div class="offset-md-4" align="center" style="margin:10px;">
     <img height="350" width="500" src="https://github-readme-stats.vercel.app/api?username=zLowy&show_icons=true&theme=tokyonight" alt="Stats"> 
