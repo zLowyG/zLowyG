@@ -28,5 +28,5 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
   </div>
 
 <div align="right">
-  <a><img src="https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social" href="https://www.paypal.com/paypalme/zlowygames"></a>
+  <a><img href="https://www.paypal.com/paypalme/zlowygames" src="https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social"></a>
 </div>
