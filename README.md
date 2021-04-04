@@ -1,5 +1,5 @@
 <div align="center"> 
-<img align="center" alt="analisis" src=https://github.com/zLowy/zLowy/blob/main/Neon%20Green%20Liquid%20Art%20On%20Trend%20Zoom%20Background.gif>
+<img align="center" alt="analisis" src=https://github.com/zLowy/zLowy/blob/main/Animated%20Cyber%20Monday%20Facebook%20Event%20Cover%20(2).gif?raw=true>
 </div>
 
 
