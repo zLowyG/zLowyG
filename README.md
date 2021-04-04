@@ -26,7 +26,3 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
     <img height="350" width="500" src="https://github-readme-stats.vercel.app/api?username=zLowy&show_icons=true&theme=tokyonight" alt="Stats"> 
     <a><img height="350" width="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLowy&langs_count=8&theme=tokyonight" alt="Stats 2"</a>
   </div>
-
-<div align="right">
-  <a href="https://www.paypal.com/paypalme/zlowygames"><img src="https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social"></a>
-</div>
