@@ -11,8 +11,8 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 
 ## Conozco:
 <div class="offset-md-4" align="center" style="margin:10px;">
-  <code><a><img height="65" width="250" src="https://github.com/zLowy/zLowy/blob/main/Panels/BluePrints.png?raw=true"></a></code>
-  <code><a><img height="65" width="250" src="https://github.com/zLowy/zLowy/blob/main/Panels/C++.png?raw=true"></a></code>
+  <code><a><img height="65" width="300" src="https://github.com/zLowy/zLowy/blob/main/Panels/BluePrints.png?raw=true"></a></code>
+  <code><a><img height="65" width="300" src="https://github.com/zLowy/zLowy/blob/main/Panels/C++.png?raw=true"></a></code>
 </div>
 
 #php Link [Link](https://discord.gg/test)
