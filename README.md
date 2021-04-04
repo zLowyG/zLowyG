@@ -13,7 +13,8 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
   <code><a><img height="65" width="300" src="https://github.com/zLowy/zLowy/blob/main/Panels/C++.png?raw=true"></a></code>
 </div>
 
-**Tengo que añadir que estoy constantemente aprendiendo otras cosas nuevas. Aquí se agregaran con el tiempo etiquetas nuevas.**
+<br>
+             **Tengo que añadir que estoy constantemente aprendiendo otras cosas nuevas. Aquí se agregaran con el tiempo etiquetas nuevas.**
 
 #php Link [Link](https://discord.gg/test)
 
