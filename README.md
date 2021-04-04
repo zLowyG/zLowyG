@@ -5,15 +5,15 @@
 </div>
 
 
-<div class="offset-md-4" align="center" style="margin:10px;">
-  <h1> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-  <h1> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-</div>
+ <h1> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me especializo en programación tanto con blueprints como en codigo c++ en el engine **Unreal Engine**.
 
 ## Conozco:
-<code><a><img height="65" width="225" src="https://github.com/zLowy/zLowy/blob/main/Panels/BluePrints.png?raw=true"></a></code>
+<div class="offset-md-4" align="center" style="margin:10px;">
+  <code><a><img height="65" width="225" src="https://github.com/zLowy/zLowy/blob/main/Panels/BluePrints.png?raw=true"></a></code>
+  <code><a><img height="65" width="225" src="https://github.com/zLowy/zLowy/blob/main/Panels/C++.png?raw=true"></a></code>
+</div>
 
 #php Link [Link](https://discord.gg/test)
 
