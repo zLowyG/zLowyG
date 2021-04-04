@@ -29,7 +29,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
   </div>
   
   <div class="row">
-  <div class="col-md-6 offset-md-3">.col-md-6 .offset-md-3</div>
+  <div class="col-md-6 offset-md-16">.col-md-6 .offset-md-3</div>
   </div>
   
 [![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://www.paypal.com/paypalme/zlowygames)
