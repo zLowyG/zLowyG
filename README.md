@@ -3,7 +3,7 @@
 </div>
 
 
-<h1> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hola y Bienvenid@ a mi Git <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me especializo en programación tanto con blueprints como en codigo c++ en el engine **Unreal Engine**.
 
@@ -16,7 +16,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me es
 <br>
 <h5>Tengo que agregar que tambien se node.js, python, discord. No lo pongo ya que ahora me estoy centrando en Desarrollo de Videojuegos en Unreal Engine 4 y se usa C++ y Blueprints.</h5>
 
-##¿Por donde podria contactarte?
+## ¿Por donde podria contactarte?
 
 - Mi Discord: [zLøwy#0633](https://discord.gg/tdB6qZpf83)
 - Mi servidor de Discord: https://discord.gg/tdB6qZpf83
