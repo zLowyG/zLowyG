@@ -5,7 +5,7 @@
 
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hola y Bienvenid@ a mi Git <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-Me llamo **David**, tengo **17 años** y soy desarrollador de videojuegos. Me especializo en programación tanto con blueprints como en codigo c++ en el engine **Unreal Engine**.
+Me llamo **David**, tengo **17 años** y soy desarrollador de bot de discord y estudiante para desarrollo de videojuegos con Unreal Engine 4. Se crear bots de discord, además de bots de discord **Con DashBoard Basica**. Me encanta el desarrollo de videojuegos con Unreal Engine 4 tanto con BluePrints como con C++.
 
 ## Conozco:
 <div class="offset-md-4" align="center" style="margin:10px;">
