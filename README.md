@@ -11,6 +11,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de bot de discord, de
 <div class="offset-md-4" align="center" style="margin:10px;">
   <code><a><img height="65" width="300" src="https://github.com/zLowy/zLowy/blob/main/Panels/Discord_Bots.png?raw=true"></a></code>
   <code><a><img height="65" width="300" src="https://github.com/zLowy/zLowy/blob/main/Panels/Unreal_Engine.png?raw=true"></a></code>
+  <code><a><img height="65" width="300" src="https://github.com/zLowy/zLowy/blob/main/Panels/MC_Plugins.png?raw=true"></a></code>
 </div>
 
 ## ¿Por donde podria contactarte?
